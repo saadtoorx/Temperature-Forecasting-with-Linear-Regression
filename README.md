@@ -92,5 +92,5 @@ This project is licensed under the [MIT License](LICENSE) – 2025 © saadtoor5
 
 ## 👤 Author
 
-Created with passion by [@saadtoor5](https://github.com/saadtoor5)
+Created with passion by [@saadtoorx](https://github.com/saadtoor5)
 Feel free to contribute or explore more projects!
