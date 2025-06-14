@@ -38,7 +38,8 @@ This project demonstrates how to use **Linear Regression** for forecasting tempe
 
 ```
 temperature-forecasting/
-├── temperature_forecasting.py      # Main script
+├── temperature_forecasting.py     # Main script
+├── temperature_forecasting.ipynb  # Jupyter Notebook
 ├── weather_forecast_data.csv      # Dataset
 ├── requirements.txt               # Python package requirements
 ├── images/                        # Optional folder for storing plots or results
